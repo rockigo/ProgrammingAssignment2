@@ -1,3 +1,7 @@
+## JHU Coursera R Programming Assignment #2
+## April 2020
+## author: rockigo@gmail.com 
+##
 ## create list with methods for get / set of both original matrix
 ## and its inverse, return the list to parent environment
 ## note that this technique allows use of $ operator to access
